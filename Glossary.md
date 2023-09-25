@@ -59,3 +59,62 @@ Recursion: The process where a function calls itself as its subroutine.
 
 Docstring: A string literal specified in source code that is used as a comment to document a specific segment of code.
 
+Mutable: Refers to the ability of an object to be modified after it has been created. Lists and dictionaries are examples of mutable objects in Python.
+
+Immutable: Refers to the inability of an object to be modified after it has been created. Strings and tuples are examples of immutable objects in Python.
+
+Statement: A standalone unit of code that performs a specific action, such as assigning a value to a variable.
+
+Expression: A combination of variables, operations, and values that yields a result value.
+
+Block of Code: A group of programming statements that are grouped together, typically by indentation in Python.
+
+Indentation: The use of whitespace at the beginning of a line to define the level of a block of code in Python.
+
+Comment: Text within a program that is ignored by the interpreter, used to explain the code. Single-line comments in Python start with #.
+
+Library: A collection of pre-written code modules that can be reused in a Python program.
+
+Argument: A value passed to a function or method when calling it.
+
+Parameter: A variable used to define a particular value during a function’s definition.
+
+Return Value: The value a function returns to the calling script or function when it completes.
+
+Scope: The region of a program where a variable can be accessed or modified.
+
+Global Variable: A variable that is accessible throughout the entire program.
+
+Local Variable: A variable that is only accessible within the function or block of code where it is defined.
+
+Attribute: A value associated with an object, representing one of its properties.
+
+Method: A function that is associated with an object and can access and modify its properties.
+
+Self: A variable that represents the instance of an object itself in Python. It is used to access variables that belong to the object.
+
+Constructor: A method that is automatically called when an object is created, usually denoted as __init__ in Python.
+
+Instance Variable: A variable that is defined inside a method and belongs only to the current instance of a class.
+
+Class Variable: A variable that is shared by all instances of a class, defined within the class.
+
+Namespace: A container that holds a set of identifiers (names), where each name is associated with a unique object.
+
+Garbage Collection: The process by which Python automatically frees up memory that is no longer in use.
+
+Iterables: Objects that can be iterated over, such as lists, strings, tuples, and dictionaries.
+
+Iterator: An object representing a stream of data, returned by the iter() function, and implements a __next__() method to access elements one at a time.
+
+Dynamic Typing: The feature in Python that allows a variable to change its type during the runtime.
+
+Duck Typing: A programming concept in Python where the type or the class of an object is less important than the methods it defines or the operations it supports.
+
+List Slicing: The technique in Python to extract a portion or slice from a list.
+
+Regular Expression (Regex): A sequence of characters that defines a search pattern, used for pattern matching with strings.
+
+Comprehension: A concise way to create collections in Python using a single line of code, such as list, set, and dictionary comprehensions.
+
+GIL (Global Interpreter Lock): A mechanism used by the CPython interpreter to ensure that only one thread executes Python bytecode at a time, which can be a bottleneck in CPU-bound and multithreaded code.
