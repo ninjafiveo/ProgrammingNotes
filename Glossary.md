@@ -1,5 +1,5 @@
-Glossary
-Python: A high-level, interpreted, and general-purpose programming language known for its easy readability with great design principles.
+# Glossary
+## Python: A high-level, interpreted, and general-purpose programming language known for its easy readability with great design principles.
 
 Interpreter: A program that reads and executes code, translating high-level source code into machine code line by line.
 
