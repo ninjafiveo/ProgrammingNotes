@@ -1,2 +1,2 @@
-#Using Markdown Shortcuts.
+# Using Markdown Shortcuts.
 [Link](https://www.markdownguide.org/cheat-sheet/)
