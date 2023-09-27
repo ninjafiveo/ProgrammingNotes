@@ -8,6 +8,8 @@
 **Variable:** A named location in memory where a programmer can store data and later retrieve the data using the variable name.
 
 **Data Type:** A classification identifying the type of a value, such as integer, string, list, etc.
+`string_var = "Hello World`
+`int_age = 76`
 
 **Integer:** A whole number without a fractional component.
 
