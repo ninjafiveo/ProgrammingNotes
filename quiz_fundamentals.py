@@ -25,3 +25,12 @@ print(square)
 
 print(intro + first_name)
 print(f"{intro}, {first_name}")
+
+def calculate_area(length, width):
+    print(length * width)
+    # return length * width
+
+calculate_area(10, 5)
+# print(calculate_area(10, 5))
+
+
