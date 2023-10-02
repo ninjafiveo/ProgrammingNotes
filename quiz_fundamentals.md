@@ -1,7 +1,7 @@
 # Hands on Quiz
 
-Python Fundamentals Hands-On Exam
-Objective: Demonstrate your understanding and proficiency in using various data types, functions, logic control, and loops in Python.
+## Python Fundamentals Hands-On Exam
+**Objective:  Demonstrate your understanding and proficiency in using various data types, functions, logic control, and loops in Python.
 Environment: Visual Studio Code, GitHub, Google Classroom
 Instructions:
 Setup Your Environment:
