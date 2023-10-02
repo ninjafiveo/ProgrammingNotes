@@ -1,19 +1,21 @@
-<h1>Glossary</h1>
-<b>Python:</b> A high-level, interpreted, and general-purpose programming language known for its easy readability with great design principles.
+# Glossary
+## Python: A high-level, interpreted, and general-purpose programming language known for its easy readability with great design principles.
 
-Interpreter: A program that reads and executes code, translating high-level source code into machine code line by line.
+**Interpreter:** A program that reads and executes code, translating high-level source code into machine code line by line.
 
-Syntax: The set of rules that defines how Python programs are written and interpreted.
+**Syntax:** The set of rules that defines how Python programs are written and interpreted.
 
-Variable: A named location in memory where a programmer can store data and later retrieve the data using the variable name.
+**Variable:** A named location in memory where a programmer can store data and later retrieve the data using the variable name.
 
-Data Type: A classification identifying the type of a value, such as integer, string, list, etc.
+**Data Type:** A classification identifying the type of a value, such as integer, string, list, etc.
+`string_var = "Hello World`
+`int_age = 76`
 
-Integer: A whole number without a fractional component.
+**Integer:** A whole number without a fractional component.
 
-Float: A number that has a decimal point.
+**Float:** A number that has a decimal point.
 
-String: A sequence of characters enclosed in single or double quotes.
+**String:** A sequence of characters enclosed in single or double quotes.
 
 List: An ordered and mutable collection of items, which can be of any type.
 
