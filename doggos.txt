@@ -1,0 +1,6 @@
+Buddy, 8, Canis familiaris, Golden Retriever
+Mozzy, 4, Canis familiaris, Multipoo
+Ralph, 2, Canis familiaris, Beagle
+Buddy, 8, Canis familiaris, Golden Retriever
+Mozzy, 4, Canis familiaris, Multipoo
+Ralph, 2, Canis familiaris, Beagle
